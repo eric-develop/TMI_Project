@@ -1,6 +1,6 @@
 # TMI_Project
-프리랜서들과 클라이언트를 연결해주는 서비스 거래 플랫폼(Talent Makes Income) 입니다.
-
+누구나 재능을 판매할 수 있고, 구매할 수 있는 여러 카테고리의 다양한 재능들을 상품으로서 판매, 거래, 공유를 할 수 있는 사이트입니다.
+![Alt text](images/main.png)
 ## Overview
 ![Alt text](images/project_overview.PNG)
 
@@ -16,6 +16,7 @@
 
 ### 1:1 문의 작성
 ![Alt text](images/qna.png)
+* * *
 ## 서비스 구매
 ### 서비스 검색 기능
 ![Alt text](images/main.png)
@@ -31,6 +32,7 @@
 ![Alt text](images/buyadmin.png)
 ![Alt text](images/cashCharge.png)
 ![Alt text](images/cashlog.png)
+* * *
 ## 서비스 판매
 ### 서비스 등록 신청
 ![Alt text](images/service1.png)
@@ -44,6 +46,7 @@
 ![Alt text](images/income.png)
 ### 서비스 관리
 ![Alt text](images/myService.png)
+* * *
 ## 관리자
 ### 회원 관리
 ![Alt text](images/admin1.png)
