@@ -40,7 +40,7 @@
 ### 판매 관리
 ![Alt text](images/selladmin.png)
 ### 수익 관리
-![Alt text](images/incomeadming.png)
+![Alt text](images/incomeadmin.png)
 ![Alt text](images/income.png)
 ### 서비스 관리
 ![Alt text](images/myService.png)
