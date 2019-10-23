@@ -1,6 +1,7 @@
 # TMI_Project
 누구나 재능을 판매할 수 있고, 구매할 수 있는 여러 카테고리의 다양한 재능들을 상품으로서 판매, 거래, 공유를 할 수 있는 사이트입니다.
-<br/>
+<br>
+<br>
 ![Alt text](images/main.png)
 ## Overview
 ![Alt text](images/project_overview.PNG)
